@@ -1,4 +1,4 @@
-# Spring Boot API with Angular UI
+# Spring Boot with Angular
 
 ## Getting Started
 
